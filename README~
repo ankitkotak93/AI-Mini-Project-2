@@ -1,0 +1,18 @@
+Artificial Intelligence 
+Assignment 2 - NLP
+Kalpit Thakkar
+
+Phase 1:
+
+1. I have different code segments for different queries, each in "Solver.py" in the respective query's forlder.
+2. In query 6, I have assumed to check for any player, i.e he can be in any of the teams. If I get atleast 1 such player, that match satifies the query.
+3. In query 9, I have assumed that I have to check that for any right handed bowler in a match, his number of wickets are more than the left handed bowler who has taken highest number of wickets in that match.
+4. The output of all the queries is there in the "output" file.
+
+Phase 2:
+
+Part 2 ->
+
+1. Go to the phase2 folder.
+2. run python check.py
+3. Enter the query. 
